@@ -1,0 +1,15 @@
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\bin\Debug\net6.0\Задача 1.exe
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\bin\Debug\net6.0\Задача 1.deps.json
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\bin\Debug\net6.0\Задача 1.runtimeconfig.json
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\bin\Debug\net6.0\Задача 1.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\bin\Debug\net6.0\Задача 1.pdb
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\Задача 1.csproj.AssemblyReference.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfoInputs.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\Задача 1.AssemblyInfo.cs
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\Задача 1.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\refint\Задача 1.dll
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\Задача 1.pdb
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\Задача 1.genruntimeconfig.cache
+C:\Users\varan\Desktop\Уроки C#\Lesson 4\Задача 1\obj\Debug\net6.0\ref\Задача 1.dll
